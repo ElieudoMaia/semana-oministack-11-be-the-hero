@@ -4,5 +4,5 @@
 
 Backend construído com Node\
 Frontend web construído com React\
-Aplicativo construído com React Native\
+Aplicativo construído com React Native
 
